@@ -1,6 +1,7 @@
 # ReactProjects
 
 Quick Overview
+Run the following commands to see the app:
 
 npx create-react-app my-app
 
