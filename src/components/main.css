@@ -1,0 +1,53 @@
+ footer {
+    width: auto;
+    height: 70px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 50px;
+    background: #566cad;
+    border: 2px black
+}
+
+h4{
+    font-family: serif;
+}
+h1{
+    color: #2b4592;
+    font-weight: bold;
+    font-family: monospace;
+}
+h2{
+    font-style: italic;
+    font-family: sarif;
+}
+h3{
+    color: #24366d;
+    font-weight: bold;
+    font-style: italic;
+    font-family: sarif;
+}
+button {
+    background-color: white;
+    color: #4CAF50;
+    border: 2px solid #4CAF50;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 4px 2px;
+    border-radius: 5px;
+  }
+button:disabled {
+    background-color: #AC9980;
+    color: #ccc;
+    cursor: not-allowed;
+}
+button:hover {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+  }

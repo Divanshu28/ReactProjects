@@ -1,0 +1,6 @@
+export const ADD_QUESTIONS = 'ADD_QUESTIONS';
+export const SET_QUESTIONS = 'SET_QUESTIONS';
+export const ADD_ANSWERS = 'ADD_ANSWERS';
+export const ADD_SELECTED = 'ADD_SELECTED';
+export const RELOAD = 'RELOAD';
+export const FETCH_QUESTIONS_FAILED = 'FETCH_QUESTIONS_FAILED';
