@@ -27,7 +27,7 @@ this.setState({
         const errrPage = <p>Error Loding Quiz</p>
         const quizPage =  (<div>
         <footer>Quiz Time</footer>
-        <h1>Starting quiz be like...</h1>
+        <h1>Starting quiz be like...Hell</h1>
         <Questions count={this.props.qid} 
         counter={this.props.cnt} 
         next={() => this.props.nextHandler(this.state.selectedanswer)} 
