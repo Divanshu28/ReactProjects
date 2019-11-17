@@ -26,7 +26,7 @@ this.setState({
     render() {
         const errrPage = <p>Error Loding Quiz</p>
         const quizPage =  (<div>
-        <footer>Quiz Time</footer>
+        <header>Quiz Time</header>
         <h1>Starting quiz be like...Hell</h1>
         <Questions count={this.props.qid} 
         counter={this.props.cnt} 
